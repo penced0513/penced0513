@@ -6,4 +6,4 @@ LinkedIn: https://www.linkedin.com/in/daniel-pence/
 
 AngelList: https://angel.co/u/daniel-pence-2
 
-<img src="https://github-readme-stats.vercel.app/api/?username=penced0513&count_private=true&theme=tokyonight&showicons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=penced0513&count_private=true&theme=tokyonight&showicons=true"> -->
